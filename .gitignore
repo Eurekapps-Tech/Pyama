@@ -1,0 +1,24 @@
+# Virtual environment
+env/
+bin/
+include/
+lib/
+lib64
+share/
+pyvenv.cfg
+
+# Pip status
+pip-selfcheck.json
+
+# Temporary files
+__pycache__/
+*~
+*.swp
+*.pyc
+
+# Data relating to development/deployment
+out/
+res/
+temp/
+test_*
+
